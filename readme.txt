@@ -1,6 +1,6 @@
 Computer Network Assignment 1
 Name:	Sanjana Shivanand Shankarikoppa
-UTA ID: 1001511840
+
 Steps to executing via command prompt:
 1.	Start the server by running the server.java file with port number as argument i.e. [port number] as follows
 	java server.java 5555. Passing port number as argument is optional, if not passed then default port 5555 is taken into consideration.
